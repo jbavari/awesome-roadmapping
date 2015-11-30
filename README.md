@@ -12,6 +12,7 @@
 - [Roadmapping without dates](https://www.prodpad.com/2013/01/roadmapping-without-dates/)
 - [On Roadmaps and Roadmapping](https://u10c.files.wordpress.com/2014/08/ebook-roadmapping.pdf)
 - [Product Prioritisation 101](http://www.mindtheproduct.com/2012/06/product-prioritisation-101/)
+- [Lean Startup - Principals](http://theleanstartup.com/principles)
 
 ## Boilerplates
 
