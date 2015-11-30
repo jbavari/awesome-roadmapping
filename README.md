@@ -11,37 +11,15 @@
 - [Four laws of software economics](http://www.mironov.com/4laws4/)
 - [Roadmapping without dates](https://www.prodpad.com/2013/01/roadmapping-without-dates/)
 - [On Roadmaps and Roadmapping](https://u10c.files.wordpress.com/2014/08/ebook-roadmapping.pdf)
-- []()
+- [Product Prioritisation 101](http://www.mindtheproduct.com/2012/06/product-prioritisation-101/)
 
 ## Boilerplates
 
 - [Value Assessment Template](http://under10templates.files.wordpress.com/2013/01/u10-value-assessment-13011.xlsx)
 
-
 ## Tools
 
-TBD
-
-
-## Components
-
-TBD
-
-
-## Documentation
-
-TBD
-
-
-## Videos
-
-TBD
-
-
-## Community
-
-TBD
-
+- [Product Board](https://www.productboard.com/)
 
 ## Tips
 
